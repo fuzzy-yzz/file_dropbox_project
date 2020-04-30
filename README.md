@@ -1,6 +1,6 @@
 # file_dropbox_project
 
-<a herf=vomggot.tistory.com>vomggot.tistory.com</a> 
+<vomggot.tistory.com> 
 my blog address, 제 블로그 주소입니다.
 
 file_dropbox_project 
