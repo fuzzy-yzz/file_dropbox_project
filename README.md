@@ -3,7 +3,7 @@
 
 my blog address, 제 블로그 주소입니다.
 
-[vpmggot.tistory.com](vomggot.tistory.com)
+[vomggot.tistory.com](vomggot.tistory.com)
 <a href="vomggot.tistory.com" rel="nofollow">vomggot.tistory.com</a>
 
 how can i link my address... enter in address bar yourself...
