@@ -1,7 +1,5 @@
 # file_dropbox_project
 
-[vomggot.tistory.com]my blog address, 제 블로그 주소입니다.
-[my blog address, 제 블로그 주소입니다.]vomggot.tistory.com
 [my blog address, 제 블로그 주소입니다.](vomggot.tistory.com)
 file_dropbox_project 
 
